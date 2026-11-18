@@ -1,0 +1,6 @@
+{
+  "name": "Formulir Pinjaman Dana Darurat — KOPKARTRANS",
+  "description": "Formulir digital resmi Pinjaman Dana Darurat Koperasi Konsumen Karyawan PT Transportasi Jakarta lengkap dengan pratinjau A4, tanda tangan digital, lampiran KTP, dan cetak PDF.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
